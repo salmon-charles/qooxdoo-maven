@@ -1,0 +1,92 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.qooxdoo</groupId>
+  <artifactId>qooxdoo-maven-parent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Qooxdoo maven integration</name>
+  <description>qooxdoo-maven provides support for qooxdoo development within Apache Maven.</description>
+
+  <url>http://todo</url>
+  <inceptionYear>2011</inceptionYear>
+
+  <parent>
+    <groupId>org.sonatype.oss</groupId>
+    <artifactId>oss-parent</artifactId>
+    <version>7</version>
+  </parent>
+
+  <licenses>
+    <license>
+      <name>LGPL</name>
+      <url>http://www.gnu.org/licenses/lgpl.html</url>
+      <distribution>repo</distribution>
+    </license>
+    <license>
+      <name>EPL</name>
+      <url>http://www.eclipse.org/org/documents/epl-v10.php</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+
+  <developers>
+    <developer>
+      <id>charless</id>
+      <name>Charles Salmon</name>
+      <email>salmon.charles at gmail.com</email>
+      <roles>
+        <role>Author Developer</role>
+      </roles>
+      <timezone>+2</timezone>
+    </developer>
+  </developers>
+
+  <contributors>
+    <contributor>
+      <name>Andreas Ecker</name>
+      <email></email>
+      <url></url>
+      <organization></organization>
+      <organizationUrl></organizationUrl>
+      <roles>
+        <role></role>
+      </roles>
+      <timezone>+2</timezone>
+    </contributor>
+    <contributor>
+      <name>Daniel Wagner</name>
+      <email></email>
+      <url></url>
+      <organization></organization>
+      <organizationUrl></organizationUrl>
+      <roles>
+        <role></role>
+      </roles>
+      <timezone>+2</timezone>
+    </contributor>
+  </contributors>
+
+  <issueManagement>
+    <system></system>
+    <url>https://</url>
+  </issueManagement>
+
+  <scm>
+    <connection>scm:git:git://github.com/salmon-charles/qooxdoo-archetype-gui.git</connection>
+    <developerConnection>scm:git:git@github.com:salmon-charles/qooxdoo-archetype-gui.git</developerConnection>
+    <url>https://github.com/salmon-charles/qooxdoo-archetype-gui</url>
+  </scm>
+
+  <mailingLists>
+    <mailingList>
+      <name></name>
+      <subscribe></subscribe>
+      <unsubscribe></unsubscribe>
+      <post></post>
+      <archive></archive>
+    </mailingList>
+  </mailingLists>
+
+    
+</project>
