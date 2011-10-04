@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.qooxdoo</groupId>
   <artifactId>qooxdoo-maven-parent</artifactId>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.5</version>
   <packaging>pom</packaging>
   <name>Qooxdoo maven integration</name>
   <description>qooxdoo-maven provides support for qooxdoo development within Apache Maven.</description>
@@ -51,30 +50,30 @@
   <contributors>
     <contributor>
       <name>Alexander Steitz</name>
-      <email></email>
-      <url></url>
-      <organization></organization>
+      <email />
+      <url />
+      <organization />
       <organizationUrl>qooxdoo.org</organizationUrl>
       <roles>
-        <role></role>
+        <role />
       </roles>
       <timezone>+2</timezone>
     </contributor>
     <contributor>
       <name>Daniel Wagner</name>
-      <email></email>
-      <url></url>
-      <organization></organization>
+      <email />
+      <url />
+      <organization />
       <organizationUrl>qooxdoo.org</organizationUrl>
       <roles>
-        <role></role>
+        <role />
       </roles>
       <timezone>+2</timezone>
     </contributor>
   </contributors>
 
   <issueManagement>
-    <system></system>
+    <system />
     <url>https://</url>
   </issueManagement>
 
@@ -86,11 +85,11 @@
 
   <mailingLists>
     <mailingList>
-      <name></name>
-      <subscribe></subscribe>
-      <unsubscribe></unsubscribe>
-      <post></post>
-      <archive></archive>
+      <name />
+      <subscribe />
+      <unsubscribe />
+      <post />
+      <archive />
     </mailingList>
   </mailingLists>
 
