@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.qooxdoo</groupId>
   <artifactId>qooxdoo-maven-parent</artifactId>
-  <version>1.5</version>
+  <version>1.5_1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Qooxdoo maven integration</name>
   <description>qooxdoo-maven provides support for qooxdoo development within Apache Maven.</description>
