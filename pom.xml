@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.qooxdoo</groupId>
   <artifactId>qooxdoo-maven-parent</artifactId>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.4-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>Qooxdoo maven integration</name>
   <description>qooxdoo-maven provides support for qooxdoo development within Apache Maven.</description>
@@ -17,8 +17,8 @@
   </parent>
 
   <properties>
-    <qooxdoo.sdk.version>1.5</qooxdoo.sdk.version>
-    <qooxdoo.scm.url>https://qooxdoo.svn.sourceforge.net/svnroot/qooxdoo/tags/release_1_5/qooxdoo/</qooxdoo.scm.url>
+    <qooxdoo.sdk.version>1.4</qooxdoo.sdk.version>
+    <qooxdoo.scm.url>https://qooxdoo.svn.sourceforge.net/svnroot/qooxdoo/tags/release_1_4/qooxdoo/</qooxdoo.scm.url>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
