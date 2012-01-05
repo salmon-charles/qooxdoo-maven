@@ -17,8 +17,8 @@
   </parent>
 
   <properties>
-    <qooxdoo.sdk.version>1.4</qooxdoo.sdk.version>
-    <qooxdoo.scm.url>https://qooxdoo.svn.sourceforge.net/svnroot/qooxdoo/tags/release_1_4/qooxdoo/</qooxdoo.scm.url>
+    <qooxdoo.sdk.version>1.5</qooxdoo.sdk.version>
+    <qooxdoo.scm.url>https://qooxdoo.svn.sourceforge.net/svnroot/qooxdoo/tags/release_1_5/qooxdoo/</qooxdoo.scm.url>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
@@ -80,50 +80,15 @@
 
   <mailingLists>
     <mailingList>
-      <name />
-      <subscribe />
-      <unsubscribe />
+      <name>qxmaven@charless.org</name>
+      <subscribe >http://qxmaven.charless.org/mailing.html</subscribe>
+      <unsubscribe>http://qxmaven.charless.org/mailing.html</unsubscribe>
       <post />
       <archive />
     </mailingList>
   </mailingLists>
 
   <build>
-    <pluginManagement>
-      <plugins>
-        <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-          <artifactId>maven-install-plugin</artifactId>
-          <version>2.3.1</version>
-        </plugin>
-        <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-          <artifactId>maven-deploy-plugin</artifactId>
-          <version>2.6</version>
-        </plugin>
-        <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-          <artifactId>maven-scm-plugin</artifactId>
-          <version>1.5</version>
-        </plugin>
-        <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-          <artifactId>maven-javadoc-plugin</artifactId>
-          <version>2.8</version>
-        </plugin>
-        <plugin>
-          <groupId>org.codehaus.groovy.maven</groupId>
-          <artifactId>gmaven-plugin</artifactId>
-          <version>1.0</version>
-        </plugin>
-        <plugin>
-          <groupId>org.apache.maven.plugins</groupId>
-          <artifactId>maven-repository-plugin</artifactId>
-          <version>2.3.1</version>
-        </plugin>
-        
-      </plugins>
-    </pluginManagement>
 
     <plugins>
       <plugin>
