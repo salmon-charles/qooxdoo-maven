@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.qooxdoo</groupId>
   <artifactId>qooxdoo-maven-parent</artifactId>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.5</version>
   <packaging>pom</packaging>
   <name>Qooxdoo maven integration</name>
   <description>qooxdoo-maven provides support for qooxdoo development within Apache Maven.</description>
@@ -81,7 +81,7 @@
   <mailingLists>
     <mailingList>
       <name>qxmaven@charless.org</name>
-      <subscribe >http://qxmaven.charless.org/mailing.html</subscribe>
+      <subscribe>http://qxmaven.charless.org/mailing.html</subscribe>
       <unsubscribe>http://qxmaven.charless.org/mailing.html</unsubscribe>
       <post />
       <archive />
